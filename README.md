@@ -42,6 +42,18 @@ The background of these PNG files is transparent. If no notable features were de
 ### Swede Scores
 Swede scores for each case are cataloged in the CSV file named `dataset/swede_scores.csv`.
 
+## Notebooks
+The release includes code that demonstrates data handling and processing and exemplifies a simple feature extraction and classification technique.
+
+Dataset processing notebook
+<a target="_blank" href="https://colab.research.google.com/github/iclx/AnnoCerv/blob/main/data_summary.ipynb">
+  <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
+</a>
+
+Data modeling and evaluation notebook
+<a target="_blank" href="https://colab.research.google.com/github/iclx/AnnoCerv/blob/main/data_modelling.ipynb">
+  <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
+</a>
 
 ## Citing
 If you use this dataset in your research or project, please ensure you attribute it accordingly, respecting the Creative Commons Attribution 4.0 International License.
