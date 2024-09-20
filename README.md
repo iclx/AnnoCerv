@@ -56,8 +56,19 @@ Data modeling and evaluation notebook
 </a>
 
 ## Citing
-If you use this dataset in your research or project, please ensure you attribute it accordingly, respecting the Creative Commons Attribution 4.0 International License.
-
+If you use this dataset in your research or project, please cite:
+```
+@article{minciunua2023annocerv,
+  title={AnnoCerv: A new dataset for feature-driven and image-based automated colposcopy analysis},
+  author={Minciun{\u{a}}, Dorina Adelina and Socolov, Demetra Gabriela and Sz{\H{o}}cs, Attila and Ivanov, Doina and G{\^\i}sc{\u{a}}, Tudor and Nechifor, Valentin and Budai, S{\'a}ndor and G{\'a}l, Attila and B{\'a}lint, {\'A}kos and Socolov, R{\u{a}}zvan and David, Iclanzan},
+  journal={Acta Universitatis Sapientiae, Informatica},
+  volume={15},
+  number={2},
+  pages={306--329},
+  year={2023},
+  doi={10.2478/ausi-2023-0019},
+}
+```
 
 Shield: [![CC BY 4.0][cc-by-shield]][cc-by]
 
